@@ -1,0 +1,5 @@
+[CSR01]
+CSR01     ansible_host=10.250.204.21
+
+[netbox]
+netbox ansible_host=23.23.250.135
